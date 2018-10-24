@@ -52,7 +52,7 @@ Look in [`array.test.js`](test/array.test.js). This contains some tests for Java
 **What do the existing tests actually test (explain in English)?**
 
 **Add a test for the `pop()` method.**
-Hint: You'll need _two_ assertions to fully test that it `pop()` works. Explain why you chose these assertions here.
+Hint: You'll need _two_ assertions to fully test that `pop()` works. Explain why you chose these assertions here.
 
 > 💡 **REMINDER**: Do you need to commit your answers to the questions above?
 
